@@ -1,0 +1,39 @@
+{
+  "release": {
+    "name": "The Hacker Games: 1",
+    "date": "4 Apr 2012",
+    "author": "Script Junkie",
+    "series": "The Hacker Games"
+  },
+  "download": {
+    "filename": "scriptjunkie-Hacker-Games-Evil-VM-0e98c9c.zip",
+    "size": "Size: 75 MB",
+    "mirror_link": "https://www.scriptjunkie.us/files/TheHackerGames.zip"
+  },
+  "description": {
+    "difficulty": "",
+    "secret": "Welcome, welcome! The time has come to select one courageous young hacker for the honor of representing District 12 in the 74th annual Hacker Games! And congratulations, for you have been selected as tribute!",
+    "contact": "",
+    "note": ""
+  },
+  "file_information": {
+    "filename": "scriptjunkie-Hacker-Games-Evil-VM-0e98c9c.zip",
+    "size": "75 MB",
+    "md5": "5EC6F47BCCFE226AE002B0587FE140EE",
+    "sha1": "1F077500891B8C31BCFF95DB4A9F7ED70A638225"
+  },
+  "virtual_machine": {
+    "format": "Virtual Machine (Virtualbox - VDI)",
+    "operating_system": "Linux"
+  },
+  "networking": {
+    "dhcp_service": "Enabled",
+    "ip_address": "Automatically assign"
+  },
+  "screenshots": {
+    "available": false,
+    "count": 0,
+    "links": [],
+    "images": []
+  }
+}

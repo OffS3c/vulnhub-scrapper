@@ -1,0 +1,19 @@
+{
+  "name": "vulnhubscrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "jsdom": "^24.1.0",
+    "moment": "^2.30.1",
+    "openai": "^4.52.2",
+    "puppeteer": "^22.12.1"
+  }
+}
