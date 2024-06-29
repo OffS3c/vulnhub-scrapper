@@ -21,6 +21,11 @@ Before running the script, ensure you have Node.js installed on your system. The
 
 ```sh
 npm install
+```
+
+2. Execute scrapper:
+
+```sh
 node index.js
 ```
 
@@ -35,7 +40,7 @@ The script will begin by parsing the sitemap from VulnHub, fetching details for 
   - moment for formatting timestamps.
 - Functionality: The main() function in index.js is the entry point. It orchestrates the entire process, from fetching and parsing the sitemap to saving the fetched details.
 - Data Handling: The script maintains a db_visited.json file to track which VMs have already been processed, preventing redundant operations in subsequent runs.
-For more detailed information about the project's implementation, refer to the comments within the index.js file.
+For more detailed information about the project's implementation, refer to the index.js file.
 
 ## Disclaimer
 
