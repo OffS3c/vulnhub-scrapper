@@ -1,14 +1,14 @@
 {
-  "name": "vulnhubscrapper",
+  "name": "vulnhub-scrapper",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "OffS3c",
+  "license": "GPL 3",
+  "description": "This project is designed to scrape and process information from VulnHub. It fetches details about various virtual machines (VMs) available for download, including their release information, download links, and descriptions. The script fetches details for each VM, and saves the information in a structured JSON format.",
   "dependencies": {
     "fs-extra": "^11.2.0",
     "jsdom": "^24.1.0",
